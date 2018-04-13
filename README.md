@@ -1,4 +1,4 @@
 # hello-world
-just another repository
+another repository
 
 I am just trying to learn the commit function!
